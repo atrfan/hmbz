@@ -6,8 +6,10 @@
         <entry key="..\:/AndroidStudioProjects/hmbz/app/src/main/res/drawable/shape_corner.xml" value="0.25092592592592594" />
         <entry key="..\:/AndroidStudioProjects/hmbz/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/AndroidStudioProjects/hmbz/app/src/main/res/layout/activity_main.xml" value="0.23233695652173914" />
-        <entry key="..\:/AndroidStudioProjects/hmbz/app/src/main/res/layout/picture_bean.xml" value="0.14010416666666667" />
+        <entry key="..\:/AndroidStudioProjects/hmbz/app/src/main/res/layout/activity_recommend.xml" value="0.1328125" />
+        <entry key="..\:/AndroidStudioProjects/hmbz/app/src/main/res/layout/picture_bean.xml" value="0.1" />
         <entry key="..\:/AndroidStudioProjects/hmbz/app/src/main/res/layout/shape_corner.xml" value="0.23233695652173914" />
+        <entry key="..\:/AndroidStudioProjects/hmbz/app/src/main/res/menu/nav_menu.xml" value="0.25885416666666666" />
       </map>
     </option>
   </component>
